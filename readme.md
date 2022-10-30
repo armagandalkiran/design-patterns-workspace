@@ -1,3 +1,5 @@
+This repository contains only my notes according to design patterns book. 
+
 ===============DESIGN PATTERNS=================
 
 - they are fundamental part of software development.
